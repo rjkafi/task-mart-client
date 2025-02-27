@@ -11,7 +11,7 @@ The primary goals of the **TaskMart Client**:
 - Implement **Firebase Authentication** for secure access.
 
 ## 🚀 Live Site
-> 🔗 **Live Demo:** [TaskMart Live Site](https://task--mangement-app.web.app/)
+> 🔗 **Live Demo:** [TaskMart Live Site](https://task-mart-8f394.web.app/)
 
 ---
 
@@ -59,7 +59,7 @@ The primary goals of the **TaskMart Client**:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-repo/taskwiz-client.git
+git clone https://github.com/your-repo/task-mart.git
 cd task-mart-client
 ```
 
