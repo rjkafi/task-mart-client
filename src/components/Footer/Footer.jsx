@@ -23,21 +23,21 @@ const Footer = () => {
                 Phone: +8801923478835
               </p>
               <p class="text-sm text-gray-500 font-medium">
-                Email: info@yourdomain.com
+                Email: taskmartsupport@gmail.com
               </p>
             </div>
             <h3 className="font-semibold mt-2 text-gray-800">Follow Us</h3>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-600 hover:text-gray-800">
+              <a href="#" className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text hover:text-gray-800">
                 <i className="fab fa-facebook-f"></i>
               </a>
-              <a href="#" className="text-gray-600 hover:text-gray-800">
+              <a href="#" className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text hover:text-gray-800">
                 <i className="fab fa-twitter"></i>
               </a>
-              <a href="#" className="text-gray-600 hover:text-gray-800">
+              <a href="#" className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text hover:text-gray-800">
                 <i className="fab fa-instagram"></i>
               </a>
-              <a href="#" className="text-gray-600 hover:text-gray-800">
+              <a href="#" className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text hover:text-gray-800">
                 <i className="fab fa-linkedin"></i>
               </a>
             </div>
